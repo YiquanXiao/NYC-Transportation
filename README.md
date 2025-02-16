@@ -2,6 +2,8 @@
 - Use Excel to accomplish the scenario simulation below
 - Data, Analysis, and Report are stored in different sheets of the Excel
 
+For more details about this project, check my post [here](https://xiaogarbageemail.wixsite.com/bryanxiaoportfolio/post/nyc-transportation-project)!
+
 ## Scenario
 You've been hired by the New York Division of Transportation as a Data Analyst with the primary goal of improving the efficiency and reliability of the city's bus transportation system. The city has been experiencing a significant number of bus breakdowns and delays, which has been causing inconvenience to commuters and straining the city's public transportation resources.
 
